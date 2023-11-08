@@ -44,7 +44,3 @@ Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/), a driven Data Science and
   </a>
 </p>
 
-<p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanfalcao&theme=github_dark)
-</p>
-
