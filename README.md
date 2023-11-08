@@ -37,10 +37,12 @@ Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/), a driven Data Science and
 
 
   <img align="right" alt="GIF" src="https://github.com/naemazam/naemazam/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
-
+https://github.com/EthanFalcao/NBA-Optimized-Team
 ## 📘 My top  projects
 <p align="left">
- <a href="https://ethanfalcao.github.io/The-Monitor/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ethanfalcao&repo=The-Monitor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+
+ 
+ <a href=" https://github.com/EthanFalcao/NBA-Optimized-Team"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ethanfalcao&repo=The-Monitor&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://github.com/ethanfalcao/Online-Thesis-Archiving-System"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ethanfalcao&repo=Online-Thesis-Archiving-System&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://ethanfalcao.github.io/CV-Baba/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ethanfalcao&repo=CV_Baba&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
  <a href="https://need-linux.github.io/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naemazam&repo=need-linux.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -55,6 +57,4 @@ Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/), a driven Data Science and
  <p align="center">
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>  
-
-[![contributions](https://activity-graph.herokuapp.com/graph?username=ethanfalcao&theme=xcode&area=true)](https://github.com/ethanfalcao)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanfalcao&theme=github_dark)
