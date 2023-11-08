@@ -35,7 +35,6 @@
   
 Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/), a driven Data Science and Mathematical Sciences student at Worcester Polytechnic Institute (WPI), graduating in 2024. I specialize in data analytics, machine learning, and business intelligence. I created a Python-Pandas and Google's or-tools Linear-Solver model to optimize NBA team selection. I also used machine learning to predict business attributes and identify fake reviews on Yelp. During internships at Clora and United Solutions, I excelled in payroll administration, operational reporting, and Power BI dashboard development with dynamic DAX formulas. I have proficiency in R, Python, Java, SQL, Power BI, and Salesforce. I'm passionate about data science and eager to make a positive impact.
 
-<img align="right" alt="GIF" src="https://github.com/naemazam/naemazam/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
 
 <h1 align="center">Summary Of My Github Live Graph</h1>
 
