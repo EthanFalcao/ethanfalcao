@@ -1,5 +1,5 @@
 [![MasterHead](Domme_gif_programming.gif)]()
-<h3 align="right">
+<h3 align="center">
   Welcome to Ethan Falcao's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -8,46 +8,13 @@
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ethan+Falcao;Data+Science+&+Mathematical+Sciences;></a>
   </h2>
- 
- <!-- platfrom -->
- <p align="center">
-  <a href="https://www.youtube.com/channel/UCTE1zfR8xpBXqgjvOgH0Nfw"><img width="32px" alt="Youtube" title="Youtube" src="./img/yutube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/naemazam/HackerRank-Solutions"><img width="32px" alt="hacker Rank" title="Hackerrank" src="./img/hr.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="CodePen" title="codepen" src="./img/codepen.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@naemazam"><img width="32px" alt="Medium" title="Medium" src="./img/medium%20(2).png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/naemazam"><img width="32px" alt="Dev.to" title="naem dev" src="./img/dev-32.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/theterminalboy"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./img/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/theterminalboy"><img width="32px" alt="Paid Stuff" title="pareon" src="https://img.icons8.com/color/48/000000/patreon.png"/></a>
-</p>
-
-
 <!-- social -->
+
+                                  
  <p align="center">
-   <a href="http://naemazam.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Wechat"><img width="32px" src="./img/wechat.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/naemazamankon" alt="Twitter"><img width="32px" src="./img/twitter.png"/></a>
+   <a href="http://ethanfalcao.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/naemazamchowdhury" alt="FaceBook"><img width="32px" src="./img/fb.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Instagram"><img width="32px" src="./img/insta.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Douyin"><img width="32px" src="./img/tiktoc.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Discord"><img width="32px" src="./img/discord-48.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
