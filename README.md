@@ -25,10 +25,7 @@
 </p>
 
   ![](https://komarev.com/ghpvc/?username=ethanfalcao&color=6aa6f8)
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/ethanfalcao/custom-icon-badges?logo=tag&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
-  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%ethanfalcao%26type%3Djson"
+ 
     
     /></a>
  <br>
