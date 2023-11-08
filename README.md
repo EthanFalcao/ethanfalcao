@@ -46,14 +46,7 @@ Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/),a driven Data Science and 
   <a href="https://github.com/naemazam?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-  <h2> My Projects Box </h2>
   
-<br/> 
-<p align="center">
-  <a href="https://naemazam.github.io/My-Projects/"><img alt="All Projects" title="All Projects" src="https://custom-icon-badges.herokuapp.com/badge/-My%20projects-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-  
-
  <p align="center">
   <h1 align="center">Summary Of My Github Live Graph</h1>
 </p>  
