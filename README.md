@@ -6,11 +6,12 @@
 
 
 <!-- Typing SVG - https://readme-typing-svg.herokuapp.com/demo/ -->
-<h2 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ethan+Falcao;Data+Science;Mathematical+Sciences">
   </a>
-</h2>
+</p>
+
 
 
                                         
