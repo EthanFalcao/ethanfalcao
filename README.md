@@ -1,5 +1,5 @@
 [![MasterHead](Domme_gif_programming.gif)]()
-<h3 align="center">
+<h3 align="right">
   Welcome to Ethan Falcao's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
