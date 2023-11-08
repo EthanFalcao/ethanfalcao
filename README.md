@@ -20,6 +20,7 @@ Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/), a driven Data Science and
  <p align="center">
    <a href="http://ethanfalcao.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+
   <a href="https://www.linkedin.com/in/ethan-falcao/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
