@@ -33,74 +33,9 @@ Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/),a driven Data Science and 
   <img align="right" alt="GIF" src="https://github.com/naemazam/naemazam/blob/main/new-Converted.gif?raw=true" width="500" height="320" />
   
   
-  
-- 🔭 I’m currently working on [Research Work](https://naemazam.github.io/Researcher/)
-
-- 👨‍💻 All of my projects are available at [Projects](https://naemazam.github.io/My-Projects)
-
-- 💬 Ask me about **Linux, Python,AI, CMD, PowerShell**
-
-- 📄 Know about my [Experiences](https://naemazam.github.io/#resume)
-- 👨‍💻 Hire Me as [Freelancer](http://naemazam.com/)
-
-- ⚡ Fun fact **I Think I love my computer, more then myself.**
+  ---test---
 
 
- # Research 
-  
-   <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0008-9398-3902"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0008-9398-3902
-    </a>
-    
- [Science Open ](https://www.scienceopen.com/user/naemazamchowdhury)
- 
-
-<h2 align="left" id="naemazam">Certificates</h2>
-
->Professional Certificates
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/google.png" width="48" height="48" alt="#" />
-      </a>
-      <br>IT Support Proffetional
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/google.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>IT Automation with Python Professional
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/cyberly.png" width="48" height="48" alt="c" />
-      </a>
-      <br>CompTIA Network+
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="c" />
-      </a>
-      <br>Linux System Administration
-    </td>
-     </tr>
-</table>
-
-
-
-<h2 align="left" id="naemazam">Dev-Hub</h2>
 
 > Progamming languages
 
