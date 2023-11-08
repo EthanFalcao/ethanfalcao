@@ -14,7 +14,7 @@
  <p align="center">
    <a href="http://ethanfalcao.github.io/"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
+  <a href="https://www.linkedin.com/in/ethan-falcao/" alt="LinkedIN"><img width="32px" src="./img/linked.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
