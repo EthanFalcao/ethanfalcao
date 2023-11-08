@@ -24,7 +24,7 @@
   
 </p>
 
-  ![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
+  ![](https://komarev.com/ghpvc/?username=ethanfalcao&color=6aa6f8)
   <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/ethanfalcao/custom-icon-badges?logo=tag&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
