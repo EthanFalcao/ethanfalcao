@@ -9,6 +9,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ethan+Falcao;Data+Science;Mathematical+Sciences">
   </a>
 </p>      
+
+![](https://komarev.com/ghpvc/?username=naemazam&color=6aa6f8)
+  <img  src="https://custom-icon-badges.herokuapp.com/badge/+1-518--468--2511-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
+  <img  src="https://custom-icon-badges.herokuapp.com/github/v/tag/naemazam/custom-icon-badges?logo=tag&logoColor=white"/></a>
+  <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
+  <img  src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3Dnaemazam%26type%3Djson"/></a>
+  
 <br>
 Hello! I'm [Ethan Falcao](http://ethanfalcao.github.io/), studying Data Science and Mathematical Sciences at Worcester Polytechnic Institute, set to graduate in May 2024. My academic journey involves in-depth coursework in Machine Learning, Algorithms, and Statistical Learning, complemented by hands-on experiences through internships at Schneider Electric, United Solutions, and Clora, where I've built predictive models, streamlined data visualization, and delved into business analytics. I've also taken on diverse projects, like creating a Spotify recommendation algorithm and analyzing the Yelp dataset for fake reviews. Proficient in Python, R, SQL, and various analysis techniques and tools, I'm driven by a passion for leveraging data to derive meaningful insights and solve complex problems in the dynamic field of data science. I'm passionate about data science and eager to make a positive impact.
 </br>
