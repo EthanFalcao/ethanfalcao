@@ -10,7 +10,7 @@
   </a>
 </p>      
 <br>
-Hi, I'm [Ethan Falcao](http://ethanfalcao.github.io/), a driven Data Science and Mathematical Sciences student at Worcester Polytechnic Institute (WPI), graduating in 2024. I specialize in data analytics, machine learning, and business intelligence. I created a Python-Pandas and Google's or-tools Linear-Solver model to optimize NBA team selection. I also used machine learning to predict business attributes and identify fake reviews on Yelp. During internships at Clora and United Solutions, I excelled in payroll administration, operational reporting, and Power BI dashboard development with dynamic DAX formulas. I have proficiency in R, Python, Java, SQL, Power BI, and Salesforce. I'm passionate about data science and eager to make a positive impact.
+Hello! I'm [Ethan Falcao](http://ethanfalcao.github.io/), studying Data Science and Mathematical Sciences at Worcester Polytechnic Institute, set to graduate in May 2024. My academic journey involves in-depth coursework in Machine Learning, Algorithms, and Statistical Learning, complemented by hands-on experiences through internships at Schneider Electric, United Solutions, and Clora, where I've built predictive models, streamlined data visualization, and delved into business analytics. I've also taken on diverse projects, like creating a Spotify recommendation algorithm and analyzing the Yelp dataset for fake reviews. Proficient in Python, R, SQL, and various analysis techniques and tools, I'm driven by a passion for leveraging data to derive meaningful insights and solve complex problems in the dynamic field of data science. I'm passionate about data science and eager to make a positive impact.
 </br>
 <!-- social -->                    
  <p align="center">
