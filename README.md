@@ -3,8 +3,9 @@
   Welcome to Ethan Falcao's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
+
 <!-- Typing SVG - https://readme-typing-svg.herokuapp.com/demo/ -->
-<p align="center">
+<p align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Ethan+Falcao;Data+Science;Mathematical+Sciences">
   </a>
