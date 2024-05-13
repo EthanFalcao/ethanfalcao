@@ -13,7 +13,7 @@
 
   
 <p>
-  Hello! I'm <a href="http://ethanfalcao.github.io/">Ethan Falcao </a>, studying Data Science and Mathematical Sciences at Worcester Polytechnic Institute, set to graduate in May 2024. My academic journey involves in-depth coursework in Machine Learning, Algorithms, and Statistical Learning, complemented by hands-on experiences through internships at Schneider Electric, United Solutions, and Clora, where I've built predictive models, streamlined data visualization, and delved into business analytics. I've also taken on diverse projects, like creating a Spotify recommendation algorithm and analyzing the Yelp dataset for fake reviews. Proficient in Python, R, SQL, and various analysis techniques and tools, I'm driven by a passion for leveraging data to derive meaningful insights and solve complex problems in the dynamic field of data science. I'm passionate about data science and eager to make a positive impact.
+  Hello! I'm <a href="http://ethanfalcao.github.io/">Ethan Falcao </a>, a recent Data Science graduate with a Bachelor's in Mathematics & Data Science from Worcester Polytechnic Institute. Expertise in machine learning, algorithms, and statistical analysis. Recognized for projects in sentiment analysis and crypto optimization. Skilled in Python, SQL, Power BI, and more. Let's collaborate and innovate together! 🔍📊💻
 </p>
 
 <!-- social -->                    
