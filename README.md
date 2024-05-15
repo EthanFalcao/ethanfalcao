@@ -13,7 +13,7 @@
 
   
 <p>
-  Hello! I'm <a href="http://ethanfalcao.github.io/">Ethan Falcao </a>, a recent Data Science graduate with a Bachelor's in Mathematics & Data Science from Worcester Polytechnic Institute. Expertise in machine learning, algorithms, and statistical analysis. Recognized for projects in sentiment analysis and crypto optimization. Skilled in Python, SQL, Power BI, and more. Let's collaborate and innovate together! 🔍📊💻
+  Hello! I'm <a href="http://ethanfalcao.github.io/">Ethan Falcao </a>, a recent graduate with a Bachelor's in Mathematics & Data Science from Worcester Polytechnic Institute. Expertise in machine learning, algorithms, and statistical analysis. Recognized for projects in sentiment analysis and crypto optimization. Skilled in Python, SQL, Power BI, and more. Let's collaborate and innovate together! 🔍📊💻
 </p>
 
 <!-- social -->                    
