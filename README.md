@@ -27,12 +27,6 @@
   <a href="https://github.com/EthanFalcao">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ethanfalcao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ethanfalcao&color=6aa6f8">
-</p>
+
 </a>
-<p align="center">
-  <a href="https://github.com/ethanfalcao?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
+
